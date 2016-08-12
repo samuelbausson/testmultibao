@@ -3,7 +3,7 @@ Voici une proposition d’organisation “type” avec les différentes pièces 
 (Proposition pour Museomix-Rennes 2015)
 Il ne s’agit que des champs d’actions possibles. Les actions spécifiques sont à définir par les personnes qui les porteront. 
 
-! [](https://hackpad-attachments.imgix.net/museomix.hackpad.com_7V1p1t44IOg_p.375545_1431793208197__IMG%20%20%20Google%C2%A0Drive.png?fit=max&w=882)
+![](https://hackpad-attachments.imgix.net/museomix.hackpad.com_7V1p1t44IOg_p.375545_1431793208197__IMG%20%20%20Google%C2%A0Drive.png?fit=max&w=882)
 
 Cette organisation s’appuie sur les expériences des éditions précédentes avec l’ambition d’intégrer au maximum les différents rôles autour de finalités partagées : 
 Toutes les personnes (organisateurs, partenaires et ingénieux) qui partagent des fonctions proches sont regroupées. (ex : les partenaires “media” sont associés à la webteam)
